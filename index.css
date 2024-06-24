@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+  text-align: center;
+}
+
+h1 {
+  background-color: lightgray;
+}
+
+p {
+  background-color: yellow;
+}
+
+img {
+  margin: 50px 0;
+}
